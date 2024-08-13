@@ -19,14 +19,7 @@
         This setup allows the navbar to behave like normal content initially and then become sticky only when it reaches the top of the screen during scrolling.
         Hey! Create me a code for NAVBAR which is sticky and is only fixed at certain certain position and also make it acrylic transparent and dont use js.
 
-        <div class="navbar">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Top 10 Visits</a></li>
-                <li><a href="#">DEstinations</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </div>
+        <?innclude navbar.php?>
     </div>
 </body>
 </html>

@@ -4,35 +4,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.navbar {
-    position: sticky;
-    top: 20px; 
-    width: 100%;
-    background: rgba(255, 255, 255, 0.5);
-    backdrop-filter: blur(10px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    z-index: 1000;
-}
 
-.navbar ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-    display: flex;
-    justify-content: center;
-}
-
-.navbar ul li {
-    margin: 0 15px;
-}
-
-.navbar ul li a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-    padding: 15px 0;
-    display: block;
-}
 
 /* For content to scroll */
 .content {
